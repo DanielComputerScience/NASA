@@ -72,7 +72,7 @@ top {
     display: flex;
     width: 90%;
     height: 500px;
-    background-color: #F9Dabc;
+    background-color: (rgb(30, 90, 200, 0.3);
     border-radius: 10px;
     margin: 0 auto;
     align-items: center;
